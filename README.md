@@ -1,2 +1,2 @@
-# yii2-geocoder
-Integrates PHP Geocoder
+# yii2-geocode
+Integrates Geocoder PHP
